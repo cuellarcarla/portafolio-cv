@@ -4,10 +4,11 @@ enableRobotsTXT = true
 enableEmoji = true
 
 theme = "almeida-cv"
+themesDir = ".."
 disableKinds = ["page", "section", "taxonomy", "term", "RSS", "sitemap"]
 
-baseURL = "https://example.com/"
-title = "Example - CV"
+baseURL = "https://portafolio-cv-beige.vercel.app/"
+title = "Carla Cuéllar - Portafolio"
 #googleAnalytics = ""
 
 [params]
@@ -27,4 +28,4 @@ colorRightColumnIconBackground = "#e3bfb8"
 pages = 1
 # Set this param to 'true' to swap the bar positions
 swapColumns = false
-footerNote = "2020 © by Inês Almeida   |   ines-almeida.com"
+footerNote = "2025 © Carla Cuéllar | Portafolio Cloud"
