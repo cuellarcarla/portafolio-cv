@@ -3,7 +3,7 @@ defaultContentLanguage = "en"
 enableRobotsTXT = true
 enableEmoji = true
 
-theme = "almeida-cv"
+theme = ".."
 themesDir = ".."
 disableKinds = ["page", "section", "taxonomy", "term", "RSS", "sitemap"]
 
