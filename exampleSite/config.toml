@@ -4,7 +4,7 @@ enableRobotsTXT = true
 enableEmoji = true
 
 theme = "almeida-cv"
-themesDir = "../../"
+themesDir = "../themes"
 disableKinds = ["page", "section", "taxonomy", "term", "RSS", "sitemap"]
 
 baseURL = "https://portafolio-cv-beige.vercel.app/"
