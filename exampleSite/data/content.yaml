@@ -1,138 +1,90 @@
 BasicInfo:
-  FirstName: Inês
-  LastName: Almeida
+  FirstName: Carla
+  LastName: Cuéllar
   Photo: img/avatar.jpg
   Contacts:
     - Icon: fas fa-phone
-      Info: +44 123 456 789
+      Info: (+34) 610 696 780
     - Icon: fas fa-envelope
-      Info: contact@ines-almeida.com
+      Info: carl.cuellarfranco@gmail.com
     - Icon: fas fa-globe
-      Info: <a class="contact__link" href="https://ines-almeida.com" target="_blank">ines-almeida.com</a>
+      Info: <a class="contact__link" href="https://hackmd.io/@ccuellar" target="_blank">hackmd.io/@ccuellar</a>
     - Icon: fas fa-map-marker-alt
-      Info: Portugal
+      Info: Barcelona, Spain
 
-Profile: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Profile: >
+  Técnica ASIR apasionada por el ecosistema Cloud y la automatización. 
+  Con una mentalidad orientada a la resolución de problemas y el aprendizaje continuo, 
+  he demostrado mis capacidades técnicas siendo finalista en múltiples competiciones 
+  nacionales de AWS. Mi enfoque actual se centra en la administración de sistemas, 
+  infraestructura como código (IaC) y arquitecturas escalables en la nube.
 
 Experience:
-  - Employer: Super Cool Company
-    Place: Oxford, UK
+  - Employer: Atos España
+    Place: Barcelona, Spain
     Positions:
-      - Title: Software Engineer
-        Date: Jan 2020 - Present
+      - Title: System Administrator (FCT)
+        Date: Feb 2026 - Present
         Details:
-          - Arcu vitae elementum curabitur vitae nunc sed velit
-          - Viverra aliquet eget sit amet tellus cras adipiscing
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'Django', 'OOP', 'Javascript', 'HTML', 'CSS', 'Agile']
-      - Title: Software Tester
-        Date: Mar 2019 - Jan 2020
-        Details:
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'BDD', 'Selenium', 'OOP', 'Agile']
-  - Employer: Another super cool company
-    Place: Lisbon, PT
+          - Administración y mantenimiento de infraestructuras críticas en entornos empresariales.
+          - Gestión de sistemas operativos Linux y Windows Server.
+          - Implementación de soluciones de soporte avanzado (Helpdesk N3).
+          - Optimización de procesos internos y gestión de incidencias mediante ticketing.
+        Badges: ['Linux', 'Windows Server', 'Helpdesk N3', 'Ticketing', 'Networking']
+  - Employer: MacServiceBCN
+    Place: Barcelona, Spain
     Positions:
-      - Title: Flow Cytometry Resource Specialist
-        Date: Jan 2018 - Mar 2019
+      - Title: IT Technician
+        Date: Sep 2022 - Feb 2023
         Details:
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'HTML', 'CSS', 'C#/Unity']
-  - Employer: Institute of Neural Engineering
-    Place: Graz, AT
-    Class: "experience__extra_padding"
-    Positions:
-      - Title: Master's Thesis Research Intern
-        Date: Oct 2016 - Jun 2017
-        Details:
-          - Arcu vitae elementum curabitur vitae nunc sed velit
-          - Viverra aliquet eget sit amet tellus cras adipiscing
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-        Badges: ['Python', 'MATLAB', 'Data Processing', 'Paradigm Design']
+          - Soporte técnico preventivo y correctivo de sistemas microinformáticos.
+          - Configuración de redes locales y mantenimiento de hardware.
+        Badges: ['Hardware', 'Redes', 'Soporte Técnico']
 
 Education:
-  - Course: BSc & MSc in Biomedical Engineering and Biophysics
-    Place: University of Lisbon
-    Date: Sep 2012 - Nov 2017
-    Details: Specialised in data analysis
-
-References:
-  - Name: Person One
-    Relation: Co-worker at Super Cool Company
-    Contacts:
-    - Icon: fas fa-phone
-      Info: +44 123 456 790
-    - Icon: fas fa-envelope
-      Info: contact@person-one.com
-    - Icon: fas fa-map-marker-alt
-      Info: Melbourne, Australia
-  - Name: Person Two
-    Relation: Boss at Super Cool Company
-    Contacts:
-    - Icon: fas fa-phone
-      Info: +44 123 456 791
-    - Icon: fas fa-envelope
-      Info: contact@person-two.com
-    - Icon: fas fa-map-marker-alt
-      Info: Sydney, Australia
-
+  - Course: CFGS Administración de Sistemas Informáticos en Red (ASIR)
+    Place: INS TIC de Barcelona
+    Date: Sep 2023 - May 2025
+    Details: Especialización en servicios de red y administración Cloud.
+  - Course: CFGM Sistemas Microinformáticos y Redes (SMR)
+    Place: INS Joan d'Àustria
+    Date: Sep 2021 - May 2023
 
 Skills:
-  - Family: Programming
+  - Family: Cloud & DevOps
     Items:
-      - Python
-      - HTML (including Jinja)
-      - Javascript
-      - CSS
-      - SASS
-      - SQL
-      - C#
-      - Bash
-      - MATLAB
-  - Family: Frameworks
+      - AWS (Amazon Web Services)
+      - Terraform (IaC)
+      - Docker / Contenedores
+      - Kubernetes
+  - Family: Sistemas & Redes
     Items:
-      - Django
-      - Flask
-      - Hugo
-      - React
-  - Family: Developer Tools
+      - Linux (Ubuntu/Debian)
+      - Windows Server
+      - Virtualización
+      - Seguridad en Redes
+  - Family: Herramientas
     Items:
-      - Git
-      - Docker
-      - Jenkins
-      - AWS
-  - Family: Misc
-    Items:
-      - Adobe Tools
-      - LaTeX
+      - Git / GitHub
+      - Ansible
+      - HackMD
+      - Metodologías Ágiles
 
 Languages:
-  - Name: Portuguese
-    Level: Native
+  - Name: Castellano
+    Level: Nativo
+  - Name: Català
+    Level: B2
   - Name: English
-    Level: C2
-  - Name: Spanish
-    Level: B1
-  - Name: German
     Level: B1
 
 Diplomas:
-  - ISTQB Tester Certification (2019)
-  - English Cambridge CAE (2009)
+  - Finalista AWS GameDay - Valencia (2025)
+  - Finalista AWS JAM Nacional - NTT DATA (2025)
+  - Finalista CatSkills Cloud Computing (2025)
 
 Interests:
-  - Bouldering
-  - Cooking
-  - Windsurfing
-  - Bossa Nova
-  - Design
-  - Languages
+  - Senderismo
+  - Cultura Asiática
+  - Baile (K-pop)
+  - Proyectos HomeLab
